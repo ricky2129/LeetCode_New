@@ -11,6 +11,9 @@ private:
         // Recursion: Try all possible swaps for the current index
         for (int i = index; i < nums.size(); i++) {
             // Swap the elements at index and i
+            if (i > index && nums[i] == nums[index]) {
+                continue; // Skip duplicates
+            }
             swap(nums[index], nums[i]);
             // Recursively generate permutations for the remaining elements
             solve(nums, ans, index + 1);
