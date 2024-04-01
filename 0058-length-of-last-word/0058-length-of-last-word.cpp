@@ -1,12 +1,20 @@
 class Solution {
 public:
-    int lengthOfLastWord(string s) {
-       int n=s.length()-1;
-       string word;
-    std::istringstream iss(s);
-      for(int i=0;i<=n;i++){
-          iss >> word;
-      }
-      return word.length();
+    int lengthOfLastWord(std::string s) {
+        int length = 0;
+        int i = s.length() - 1;
+
+        // Skip trailing spaces
+        while (i >= 0 && s[i] == ' ') {
+            i--;
+        }
+
+        // Count characters until a space is encountered or the beginning of the string
+        while (i >= 0 && s[i] != ' ') {
+            length++;
+            i--;
+        }
+
+        return length;
     }
 };
