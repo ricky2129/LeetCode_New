@@ -12,8 +12,18 @@
 # Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/ricky2129/LeetCode_New/tree/master/0316-remove-duplicate-letters) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/1072-next-greater-node-in-linked-list) |
 # Monotonic Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/ricky2129/LeetCode_New/tree/master/0316-remove-duplicate-letters) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/1072-next-greater-node-in-linked-list) |
+# String
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/ricky2129/LeetCode_New/tree/master/0316-remove-duplicate-letters) |
+# Greedy
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/ricky2129/LeetCode_New/tree/master/0316-remove-duplicate-letters) |
