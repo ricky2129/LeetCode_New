@@ -8,6 +8,7 @@
 | [0085-maximal-rectangle](https://github.com/ricky2129/LeetCode_New/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ricky2129/LeetCode_New/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/ricky2129/LeetCode_New/tree/master/0682-baseball-game) |
+| [0983-validate-stack-sequences](https://github.com/ricky2129/LeetCode_New/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/1072-next-greater-node-in-linked-list) |
 # Linked List
 |  |
@@ -27,6 +28,7 @@
 | [0886-score-of-parentheses](https://github.com/ricky2129/LeetCode_New/tree/master/0886-score-of-parentheses) |
 | [0937-online-stock-span](https://github.com/ricky2129/LeetCode_New/tree/master/0937-online-stock-span) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ricky2129/LeetCode_New/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [0983-validate-stack-sequences](https://github.com/ricky2129/LeetCode_New/tree/master/0983-validate-stack-sequences) |
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ricky2129/LeetCode_New/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ricky2129/LeetCode_New/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -86,6 +88,7 @@
 | ------- |
 | [0682-baseball-game](https://github.com/ricky2129/LeetCode_New/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ricky2129/LeetCode_New/tree/master/0874-backspace-string-compare) |
+| [0983-validate-stack-sequences](https://github.com/ricky2129/LeetCode_New/tree/master/0983-validate-stack-sequences) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ricky2129/LeetCode_New/tree/master/2800-minimum-string-length-after-removing-substrings) |
 # Design
 |  |
