@@ -15,6 +15,7 @@
 # Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ricky2129/LeetCode_New/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/ricky2129/LeetCode_New/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ricky2129/LeetCode_New/tree/master/0394-decode-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ricky2129/LeetCode_New/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -38,6 +39,7 @@
 # String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/ricky2129/LeetCode_New/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/ricky2129/LeetCode_New/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/ricky2129/LeetCode_New/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ricky2129/LeetCode_New/tree/master/0678-valid-parenthesis-string) |
