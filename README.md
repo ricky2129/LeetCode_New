@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ricky2129/LeetCode_New/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/ricky2129/LeetCode_New/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ricky2129/LeetCode_New/tree/master/0085-maximal-rectangle) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ricky2129/LeetCode_New/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0682-baseball-game](https://github.com/ricky2129/LeetCode_New/tree/master/0682-baseball-game) |
@@ -20,6 +21,7 @@
 # Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ricky2129/LeetCode_New/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/ricky2129/LeetCode_New/tree/master/0071-simplify-path) |
 | [0085-maximal-rectangle](https://github.com/ricky2129/LeetCode_New/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/ricky2129/LeetCode_New/tree/master/0316-remove-duplicate-letters) |
@@ -44,6 +46,7 @@
 # Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ricky2129/LeetCode_New/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ricky2129/LeetCode_New/tree/master/0085-maximal-rectangle) |
 | [0316-remove-duplicate-letters](https://github.com/ricky2129/LeetCode_New/tree/master/0316-remove-duplicate-letters) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ricky2129/LeetCode_New/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -85,6 +88,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ricky2129/LeetCode_New/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/ricky2129/LeetCode_New/tree/master/0042-trapping-rain-water) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/ricky2129/LeetCode_New/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0874-backspace-string-compare](https://github.com/ricky2129/LeetCode_New/tree/master/0874-backspace-string-compare) |
 # Sorting
@@ -95,6 +99,7 @@
 # Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/ricky2129/LeetCode_New/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/ricky2129/LeetCode_New/tree/master/0085-maximal-rectangle) |
 | [0678-valid-parenthesis-string](https://github.com/ricky2129/LeetCode_New/tree/master/0678-valid-parenthesis-string) |
 # Simulation
