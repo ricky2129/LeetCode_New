@@ -13,6 +13,7 @@
 | [0883-car-fleet](https://github.com/ricky2129/LeetCode_New/tree/master/0883-car-fleet) |
 | [0983-validate-stack-sequences](https://github.com/ricky2129/LeetCode_New/tree/master/0983-validate-stack-sequences) |
 | [1072-next-greater-node-in-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/1072-next-greater-node-in-linked-list) |
+| [1552-build-an-array-with-stack-operations](https://github.com/ricky2129/LeetCode_New/tree/master/1552-build-an-array-with-stack-operations) |
 | [1902-car-fleet-ii](https://github.com/ricky2129/LeetCode_New/tree/master/1902-car-fleet-ii) |
 # Linked List
 |  |
@@ -42,6 +43,7 @@
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ricky2129/LeetCode_New/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ricky2129/LeetCode_New/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ricky2129/LeetCode_New/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1552-build-an-array-with-stack-operations](https://github.com/ricky2129/LeetCode_New/tree/master/1552-build-an-array-with-stack-operations) |
 | [1902-car-fleet-ii](https://github.com/ricky2129/LeetCode_New/tree/master/1902-car-fleet-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ricky2129/LeetCode_New/tree/master/2800-minimum-string-length-after-removing-substrings) |
 # Monotonic Stack
@@ -110,6 +112,7 @@
 | [0682-baseball-game](https://github.com/ricky2129/LeetCode_New/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/ricky2129/LeetCode_New/tree/master/0874-backspace-string-compare) |
 | [0983-validate-stack-sequences](https://github.com/ricky2129/LeetCode_New/tree/master/0983-validate-stack-sequences) |
+| [1552-build-an-array-with-stack-operations](https://github.com/ricky2129/LeetCode_New/tree/master/1552-build-an-array-with-stack-operations) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ricky2129/LeetCode_New/tree/master/2800-minimum-string-length-after-removing-substrings) |
 # Design
 |  |
