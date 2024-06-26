@@ -40,6 +40,7 @@
 | [1072-next-greater-node-in-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/1072-next-greater-node-in-linked-list) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ricky2129/LeetCode_New/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ricky2129/LeetCode_New/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ricky2129/LeetCode_New/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ricky2129/LeetCode_New/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1902-car-fleet-ii](https://github.com/ricky2129/LeetCode_New/tree/master/1902-car-fleet-ii) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ricky2129/LeetCode_New/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -69,6 +70,7 @@
 | [1045-check-if-word-is-valid-after-substitutions](https://github.com/ricky2129/LeetCode_New/tree/master/1045-check-if-word-is-valid-after-substitutions) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/ricky2129/LeetCode_New/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/ricky2129/LeetCode_New/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/ricky2129/LeetCode_New/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/ricky2129/LeetCode_New/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ricky2129/LeetCode_New/tree/master/2800-minimum-string-length-after-removing-substrings) |
 # Greedy
