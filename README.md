@@ -147,3 +147,22 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ricky2129/LeetCode_New/tree/master/0387-first-unique-character-in-a-string) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Stack
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Queue
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+<!---LeetCode Topics End-->
