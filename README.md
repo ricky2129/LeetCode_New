@@ -64,6 +64,7 @@
 | ------- |
 | [0071-simplify-path](https://github.com/ricky2129/LeetCode_New/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/ricky2129/LeetCode_New/tree/master/0316-remove-duplicate-letters) |
+| [0387-first-unique-character-in-a-string](https://github.com/ricky2129/LeetCode_New/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/ricky2129/LeetCode_New/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/ricky2129/LeetCode_New/tree/master/0678-valid-parenthesis-string) |
 | [0874-backspace-string-compare](https://github.com/ricky2129/LeetCode_New/tree/master/0874-backspace-string-compare) |
@@ -134,3 +135,15 @@
 |  |
 | ------- |
 | [1902-car-fleet-ii](https://github.com/ricky2129/LeetCode_New/tree/master/1902-car-fleet-ii) |
+# Hash Table
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ricky2129/LeetCode_New/tree/master/0387-first-unique-character-in-a-string) |
+# Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ricky2129/LeetCode_New/tree/master/0387-first-unique-character-in-a-string) |
+# Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ricky2129/LeetCode_New/tree/master/0387-first-unique-character-in-a-string) |
