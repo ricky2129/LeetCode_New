@@ -152,6 +152,7 @@
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/ricky2129/LeetCode_New/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/ricky2129/LeetCode_New/tree/master/0239-sliding-window-maximum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Stack
@@ -179,4 +180,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ricky2129/LeetCode_New/tree/master/0239-sliding-window-maximum) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/ricky2129/LeetCode_New/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
