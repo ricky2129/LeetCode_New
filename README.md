@@ -158,11 +158,13 @@
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ricky2129/LeetCode_New/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ricky2129/LeetCode_New/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ricky2129/LeetCode_New/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ricky2129/LeetCode_New/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ricky2129/LeetCode_New/tree/master/0239-sliding-window-maximum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -189,5 +191,6 @@
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ricky2129/LeetCode_New/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ricky2129/LeetCode_New/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
