@@ -158,10 +158,12 @@
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ricky2129/LeetCode_New/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ricky2129/LeetCode_New/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/ricky2129/LeetCode_New/tree/master/0239-sliding-window-maximum) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Simulation
@@ -184,4 +186,8 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ricky2129/LeetCode_New/tree/master/0134-gas-station) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/ricky2129/LeetCode_New/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
