@@ -188,9 +188,18 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ricky2129/LeetCode_New/tree/master/0134-gas-station) |
+| [3055-maximum-odd-binary-number](https://github.com/ricky2129/LeetCode_New/tree/master/3055-maximum-odd-binary-number) |
 ## Design
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ricky2129/LeetCode_New/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ricky2129/LeetCode_New/tree/master/0232-implement-queue-using-stacks) |
+## Math
+|  |
+| ------- |
+| [3055-maximum-odd-binary-number](https://github.com/ricky2129/LeetCode_New/tree/master/3055-maximum-odd-binary-number) |
+## String
+|  |
+| ------- |
+| [3055-maximum-odd-binary-number](https://github.com/ricky2129/LeetCode_New/tree/master/3055-maximum-odd-binary-number) |
 <!---LeetCode Topics End-->
