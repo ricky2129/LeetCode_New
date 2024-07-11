@@ -154,6 +154,7 @@
 | ------- |
 | [0134-gas-station](https://github.com/ricky2129/LeetCode_New/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/ricky2129/LeetCode_New/tree/master/0239-sliding-window-maximum) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ricky2129/LeetCode_New/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Stack
 |  |
@@ -188,6 +189,7 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/ricky2129/LeetCode_New/tree/master/0134-gas-station) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ricky2129/LeetCode_New/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [3055-maximum-odd-binary-number](https://github.com/ricky2129/LeetCode_New/tree/master/3055-maximum-odd-binary-number) |
 ## Design
 |  |
@@ -202,4 +204,8 @@
 |  |
 | ------- |
 | [3055-maximum-odd-binary-number](https://github.com/ricky2129/LeetCode_New/tree/master/3055-maximum-odd-binary-number) |
+## Sorting
+|  |
+| ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ricky2129/LeetCode_New/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 <!---LeetCode Topics End-->
