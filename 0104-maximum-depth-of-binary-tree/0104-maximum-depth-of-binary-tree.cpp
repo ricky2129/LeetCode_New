@@ -16,13 +16,13 @@ public:
         if(root==NULL){
             return 0;
         }
-        //
-        int leftheight=maxDepth(root->left);
-        int rightheight=maxDepth(root->right);
+        // //
+        // int leftheight=maxDepth(root->left);
+        // int rightheight=maxDepth(root->right);
 
-        int ans=max(leftheight,rightheight) + 1;
+        // int ans=max(leftheight,rightheight) + 1;
 
-        return ans;
+        return max(maxDepth(root->left),maxDepth(root->right)) +1;
         
     }
 };
