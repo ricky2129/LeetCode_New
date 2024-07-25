@@ -152,6 +152,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ricky2129/LeetCode_New/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0134-gas-station](https://github.com/ricky2129/LeetCode_New/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/ricky2129/LeetCode_New/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ricky2129/LeetCode_New/tree/master/0287-find-the-duplicate-number) |
@@ -212,6 +213,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/ricky2129/LeetCode_New/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/ricky2129/LeetCode_New/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
