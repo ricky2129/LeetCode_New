@@ -156,6 +156,7 @@
 | [0134-gas-station](https://github.com/ricky2129/LeetCode_New/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/ricky2129/LeetCode_New/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ricky2129/LeetCode_New/tree/master/0287-find-the-duplicate-number) |
+| [0907-koko-eating-bananas](https://github.com/ricky2129/LeetCode_New/tree/master/0907-koko-eating-bananas) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ricky2129/LeetCode_New/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Stack
@@ -219,6 +220,7 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/ricky2129/LeetCode_New/tree/master/0287-find-the-duplicate-number) |
+| [0907-koko-eating-bananas](https://github.com/ricky2129/LeetCode_New/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
