@@ -209,6 +209,7 @@
 ## String
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/ricky2129/LeetCode_New/tree/master/0257-binary-tree-paths) |
 | [3055-maximum-odd-binary-number](https://github.com/ricky2129/LeetCode_New/tree/master/3055-maximum-odd-binary-number) |
 ## Sorting
 |  |
@@ -243,6 +244,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ricky2129/LeetCode_New/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ricky2129/LeetCode_New/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ricky2129/LeetCode_New/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ricky2129/LeetCode_New/tree/master/0563-binary-tree-tilt) |
@@ -261,6 +263,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ricky2129/LeetCode_New/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ricky2129/LeetCode_New/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ricky2129/LeetCode_New/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ricky2129/LeetCode_New/tree/master/0563-binary-tree-tilt) |
@@ -289,6 +292,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ricky2129/LeetCode_New/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/ricky2129/LeetCode_New/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/ricky2129/LeetCode_New/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ricky2129/LeetCode_New/tree/master/0563-binary-tree-tilt) |
@@ -296,4 +300,5 @@
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/ricky2129/LeetCode_New/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/ricky2129/LeetCode_New/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
