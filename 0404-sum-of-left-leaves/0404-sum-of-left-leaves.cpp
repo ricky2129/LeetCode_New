@@ -12,7 +12,8 @@
 class Solution {
 public:
     void  solve(TreeNode* root , bool flag,int &sum){
-         if (root == nullptr) return;
+        if (root == nullptr) return;
+        
         if(root->left==NULL && root->right==NULL){
             if(flag && root!= NULL){
                 sum+=root->val;
