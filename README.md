@@ -163,6 +163,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ricky2129/LeetCode_New/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ricky2129/LeetCode_New/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ricky2129/LeetCode_New/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ricky2129/LeetCode_New/tree/master/0232-implement-queue-using-stacks) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
@@ -237,6 +238,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ricky2129/LeetCode_New/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ricky2129/LeetCode_New/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ricky2129/LeetCode_New/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ricky2129/LeetCode_New/tree/master/0404-sum-of-left-leaves) |
@@ -253,6 +255,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ricky2129/LeetCode_New/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ricky2129/LeetCode_New/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ricky2129/LeetCode_New/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ricky2129/LeetCode_New/tree/master/0404-sum-of-left-leaves) |
@@ -279,6 +282,7 @@
 | [0111-minimum-depth-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ricky2129/LeetCode_New/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/ricky2129/LeetCode_New/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/ricky2129/LeetCode_New/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ricky2129/LeetCode_New/tree/master/0404-sum-of-left-leaves) |
