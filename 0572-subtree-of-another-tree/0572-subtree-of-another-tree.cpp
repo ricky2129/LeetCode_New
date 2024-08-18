@@ -27,5 +27,4 @@ public:
         // Otherwise, check the left and right subtrees
         return isSubtree(root->left, subroot) || isSubtree(root->right, subroot);
     }
-    
 };
