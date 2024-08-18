@@ -248,6 +248,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ricky2129/LeetCode_New/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ricky2129/LeetCode_New/tree/master/0563-binary-tree-tilt) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -267,6 +268,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ricky2129/LeetCode_New/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ricky2129/LeetCode_New/tree/master/0563-binary-tree-tilt) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -296,6 +298,7 @@
 | [0404-sum-of-left-leaves](https://github.com/ricky2129/LeetCode_New/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/ricky2129/LeetCode_New/tree/master/0563-binary-tree-tilt) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
