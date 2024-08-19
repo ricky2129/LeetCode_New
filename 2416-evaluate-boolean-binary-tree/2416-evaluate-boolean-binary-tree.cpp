@@ -28,7 +28,7 @@ public:
             return solve(root->left) && solve(root->right);
         }
 
-        return false;
+        return true;
     }
     bool evaluateTree(TreeNode* root) {
         return solve(root);
