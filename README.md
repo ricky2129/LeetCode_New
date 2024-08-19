@@ -250,6 +250,7 @@
 | [0563-binary-tree-tilt](https://github.com/ricky2129/LeetCode_New/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -271,6 +272,7 @@
 | [0563-binary-tree-tilt](https://github.com/ricky2129/LeetCode_New/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -281,6 +283,7 @@
 | [0112-path-sum](https://github.com/ricky2129/LeetCode_New/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ricky2129/LeetCode_New/tree/master/0404-sum-of-left-leaves) |
+| [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -302,6 +305,7 @@
 | [0563-binary-tree-tilt](https://github.com/ricky2129/LeetCode_New/tree/master/0563-binary-tree-tilt) |
 | [0572-subtree-of-another-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
