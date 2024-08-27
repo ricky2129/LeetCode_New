@@ -1,35 +1,26 @@
-/**
- * Definition for a binary tree node.
- * struct TreeNode {
- *     int val;
- *     TreeNode *left;
- *     TreeNode *right;
- *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
- *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
- * };
- */
 class Solution {
 public:
-    void solve(TreeNode* root, int level ,vector<int>& ans){
-        if(root==NULL){
+    void solve(TreeNode* root, int level, int &maxLevel, int &ans) {
+        if (root == NULL) {
             return;
         }
 
-        if(level==ans.size()){
-            ans.push_back(root->val);
+        // If we reach a new level that's deeper than any we've seen, update the answer
+        if (level > maxLevel) {
+            maxLevel = level;
+            ans = root->val;
         }
 
-        solve(root->left,level+1,ans);
-        solve(root->right,level+1,ans);
+        // Explore the left subtree first to ensure the leftmost node is found first
+        solve(root->left, level + 1, maxLevel, ans);
+        solve(root->right, level + 1, maxLevel, ans);
     }
 
     int findBottomLeftValue(TreeNode* root) {
-        
-        int level=0;
-        vector<int>ans;
-        solve(root,level,ans);
-
-        return ans[ans.size()-1];
+        int maxLevel = -1;  // Start with -1 because the root is at level 0
+        int ans = 0;
+        solve(root, 0, maxLevel, ans);  // Start at level 0
+        return ans;
     }
+    
 };
