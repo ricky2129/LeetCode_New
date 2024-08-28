@@ -260,6 +260,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -291,6 +292,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -308,6 +310,7 @@
 | [0513-find-bottom-left-tree-value](https://github.com/ricky2129/LeetCode_New/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/ricky2129/LeetCode_New/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -338,6 +341,7 @@
 | [0572-subtree-of-another-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0572-subtree-of-another-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Backtracking
 |  |
