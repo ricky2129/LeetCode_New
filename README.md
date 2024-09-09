@@ -265,6 +265,7 @@
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Depth-First Search
 |  |
@@ -301,6 +302,7 @@
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -321,6 +323,7 @@
 | [0623-add-one-row-to-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0623-add-one-row-to-tree) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -356,6 +359,7 @@
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
+| [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/2416-evaluate-boolean-binary-tree) |
 ## Backtracking
 |  |
@@ -376,6 +380,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ricky2129/LeetCode_New/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ricky2129/LeetCode_New/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
 ## Hash Table
 |  |
 | ------- |
