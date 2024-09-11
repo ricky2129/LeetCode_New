@@ -268,6 +268,7 @@
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -307,6 +308,7 @@
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/2416-evaluate-boolean-binary-tree) |
@@ -331,6 +333,7 @@
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 ## Binary Tree
@@ -370,6 +373,7 @@
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1568-pseudo-palindromic-paths-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1568-pseudo-palindromic-paths-in-a-binary-tree) |
 | [2416-evaluate-boolean-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/2416-evaluate-boolean-binary-tree) |
