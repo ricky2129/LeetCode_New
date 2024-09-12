@@ -267,6 +267,7 @@
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -307,6 +308,7 @@
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -372,6 +374,7 @@
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -401,4 +404,8 @@
 |  |
 | ------- |
 | [0652-find-duplicate-subtrees](https://github.com/ricky2129/LeetCode_New/tree/master/0652-find-duplicate-subtrees) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
