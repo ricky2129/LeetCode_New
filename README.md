@@ -169,6 +169,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/ricky2129/LeetCode_New/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/ricky2129/LeetCode_New/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/ricky2129/LeetCode_New/tree/master/0232-implement-queue-using-stacks) |
+| [0933-increasing-order-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0933-increasing-order-search-tree) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/ricky2129/LeetCode_New/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -274,6 +275,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -319,6 +321,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -393,6 +396,7 @@
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
+| [0933-increasing-order-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
@@ -440,6 +444,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0783-search-in-a-binary-search-tree) |
+| [0933-increasing-order-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0933-increasing-order-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
