@@ -274,6 +274,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ricky2129/LeetCode_New/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
@@ -320,6 +321,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/ricky2129/LeetCode_New/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ricky2129/LeetCode_New/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
@@ -349,6 +351,7 @@
 | [0617-merge-two-binary-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0617-merge-two-binary-trees) |
 | [0623-add-one-row-to-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0623-add-one-row-to-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ricky2129/LeetCode_New/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
@@ -395,6 +398,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ricky2129/LeetCode_New/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0933-increasing-order-search-tree) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
@@ -444,6 +448,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0783-search-in-a-binary-search-tree) |
+| [0799-minimum-distance-between-bst-nodes](https://github.com/ricky2129/LeetCode_New/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0933-increasing-order-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0933-increasing-order-search-tree) |
 ## Divide and Conquer
 |  |
