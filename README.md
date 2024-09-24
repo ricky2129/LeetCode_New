@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ricky2129/LeetCode_New/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/ricky2129/LeetCode_New/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/ricky2129/LeetCode_New/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ricky2129/LeetCode_New/tree/master/0287-find-the-duplicate-number) |
@@ -241,6 +242,7 @@
 | [0101-symmetric-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ricky2129/LeetCode_New/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ricky2129/LeetCode_New/tree/master/0112-path-sum) |
@@ -358,6 +360,7 @@
 | [0101-symmetric-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0101-symmetric-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/ricky2129/LeetCode_New/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0110-balanced-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ricky2129/LeetCode_New/tree/master/0112-path-sum) |
@@ -429,8 +432,13 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
