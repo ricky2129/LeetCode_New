@@ -272,6 +272,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/ricky2129/LeetCode_New/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
@@ -390,6 +391,7 @@
 | [0652-find-duplicate-subtrees](https://github.com/ricky2129/LeetCode_New/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/ricky2129/LeetCode_New/tree/master/0904-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1005-univalued-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1035-cousins-in-binary-tree) |
@@ -437,6 +439,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0450-delete-node-in-a-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0783-search-in-a-binary-search-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
