@@ -454,4 +454,8 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/ricky2129/LeetCode_New/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
