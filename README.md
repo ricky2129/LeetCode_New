@@ -153,6 +153,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ricky2129/LeetCode_New/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/ricky2129/LeetCode_New/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/ricky2129/LeetCode_New/tree/master/0134-gas-station) |
 | [0239-sliding-window-maximum](https://github.com/ricky2129/LeetCode_New/tree/master/0239-sliding-window-maximum) |
@@ -219,11 +220,13 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ricky2129/LeetCode_New/tree/master/0088-merge-sorted-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ricky2129/LeetCode_New/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ricky2129/LeetCode_New/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/ricky2129/LeetCode_New/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ricky2129/LeetCode_New/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/ricky2129/LeetCode_New/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ricky2129/LeetCode_New/tree/master/0344-reverse-string) |
