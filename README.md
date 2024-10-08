@@ -430,6 +430,7 @@
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/ricky2129/LeetCode_New/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ricky2129/LeetCode_New/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0206-reverse-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/0206-reverse-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1484-linked-list-in-binary-tree) |
 ## Hash Table
 |  |
@@ -465,4 +466,8 @@
 | [1258-article-views-i](https://github.com/ricky2129/LeetCode_New/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/ricky2129/LeetCode_New/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/ricky2129/LeetCode_New/tree/master/1908-recyclable-and-low-fat-products) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
