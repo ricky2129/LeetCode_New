@@ -156,6 +156,7 @@
 | [0088-merge-sorted-array](https://github.com/ricky2129/LeetCode_New/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0134-gas-station](https://github.com/ricky2129/LeetCode_New/tree/master/0134-gas-station) |
+| [0169-majority-element](https://github.com/ricky2129/LeetCode_New/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/ricky2129/LeetCode_New/tree/master/0239-sliding-window-maximum) |
 | [0287-find-the-duplicate-number](https://github.com/ricky2129/LeetCode_New/tree/master/0287-find-the-duplicate-number) |
 | [0907-koko-eating-bananas](https://github.com/ricky2129/LeetCode_New/tree/master/0907-koko-eating-bananas) |
@@ -221,6 +222,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ricky2129/LeetCode_New/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/ricky2129/LeetCode_New/tree/master/0169-majority-element) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ricky2129/LeetCode_New/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Two Pointers
 |  |
@@ -440,6 +442,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/ricky2129/LeetCode_New/tree/master/0169-majority-element) |
 | [0652-find-duplicate-subtrees](https://github.com/ricky2129/LeetCode_New/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/ricky2129/LeetCode_New/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Dynamic Programming
@@ -462,6 +465,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ricky2129/LeetCode_New/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/ricky2129/LeetCode_New/tree/master/0169-majority-element) |
 ## Database
 |  |
 | ------- |
@@ -475,4 +479,8 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/0206-reverse-linked-list) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ricky2129/LeetCode_New/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
