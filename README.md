@@ -210,6 +210,7 @@
 ## Math
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/ricky2129/LeetCode_New/tree/master/1013-fibonacci-number) |
 | [3055-maximum-odd-binary-number](https://github.com/ricky2129/LeetCode_New/tree/master/3055-maximum-odd-binary-number) |
 ## String
 |  |
@@ -448,6 +449,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/ricky2129/LeetCode_New/tree/master/1013-fibonacci-number) |
 | [1474-longest-zigzag-path-in-a-binary-tree](https://github.com/ricky2129/LeetCode_New/tree/master/1474-longest-zigzag-path-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -479,8 +481,13 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ricky2129/LeetCode_New/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/ricky2129/LeetCode_New/tree/master/1013-fibonacci-number) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ricky2129/LeetCode_New/tree/master/0169-majority-element) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ricky2129/LeetCode_New/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
